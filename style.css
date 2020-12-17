@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+body{
+    background-image: url(https://ak.picdn.net/shutterstock/videos/846440/thumb/3.jpg);
+    margin: 0;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 11rem;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+h1{
+    color: #FF0000;
+    font-family: 'JetBrains Mono', monospace;
+    text-align: center;
+    font-size: 3rem;
+}
+h1:hover{
+    color:#708090 ;
+}
+.countdown-timer{
+    color: #6ea06e; 
+    display: flex;
+    justify-content: center;
+    font-size: 1rem;
+}
+.countdown-timer:hover{
+    color:#708090;
+}
+.bigtext{
+    font-size: 3rem;
+    line-height: 1;
+    margin: 0 2rem;
+}
